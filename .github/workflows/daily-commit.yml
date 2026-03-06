@@ -14,19 +14,17 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.PAT_TOKEN }}
-        persist-credentials: true
     
-    - name: Update learning log
+    - name: Update and push
+      env:
+        PAT: ${{ secrets.PAT_TOKEN }}
       run: |
         if [ ! -f learning_log.md ]; then
-          cat > learning_log.md << 'EOF'
-        # 📚 Bioinformatics Learning Log
-
-        Daily notes and study progress for MS in Bioinformatics @ Northeastern University.
-
-        ---
-        ## Daily Log
-        EOF
+          echo "# 📚 Bioinformatics Learning Log" > learning_log.md
+          echo "" >> learning_log.md
+          echo "Daily study progress for MS in Bioinformatics @ Northeastern." >> learning_log.md
+          echo "" >> learning_log.md
+          echo "---" >> learning_log.md
         fi
         
         TOPICS=(
@@ -45,7 +43,6 @@ jobs:
           "Transcriptomics lecture notes review"
           "Statistics for bioinformatics concepts"
           "Reviewed Seurat single-cell workflow"
-          "Studied scvi-tools latent space models"
           "Reviewed FastQC quality metrics"
         )
         
@@ -55,11 +52,10 @@ jobs:
         echo "" >> learning_log.md
         echo "### $(date +'%B %d, %Y')" >> learning_log.md
         echo "- $TOPIC" >> learning_log.md
-    
-    - name: Commit and push
-      run: |
+        
         git config user.email "kulkarni.vedan@northeastern.edu"
         git config user.name "Vedant Kulkarni"
-        git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/VedKulkarni01/bioinformatics-study-notes.git
+        git remote set-url origin https://$PAT@github.com/VedKulkarni01/bioinformatics-study-notes.git
         git add learning_log.md
-        git diff --staged --quiet || (git commit -m "📚 Added study notes" && git push)
+        git commit -m "📚 Added study notes" || echo "No changes"
+        git push
