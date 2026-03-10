@@ -15,3 +15,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 09, 2026
 - Studied differential expression analysis with DESeq2
+
+### March 10, 2026
+- Reviewed FastQC quality metrics
