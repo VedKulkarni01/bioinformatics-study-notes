@@ -18,3 +18,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 10, 2026
 - Reviewed FastQC quality metrics
+
+### March 11, 2026
+- Studied R tidyverse functions
