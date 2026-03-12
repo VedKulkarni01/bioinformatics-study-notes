@@ -21,3 +21,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 11, 2026
 - Studied R tidyverse functions
+
+### March 12, 2026
+- Studied pathway enrichment analysis (KEGG, GO)
