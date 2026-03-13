@@ -24,3 +24,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 12, 2026
 - Studied pathway enrichment analysis (KEGG, GO)
+
+### March 13, 2026
+- Studied differential expression analysis with DESeq2
