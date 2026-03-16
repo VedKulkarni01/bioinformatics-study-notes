@@ -33,3 +33,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 15, 2026
 - Practiced Nextflow pipeline development
+
+### March 16, 2026
+- Reviewed GWAS methodology and mixed models
