@@ -36,3 +36,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 16, 2026
 - Reviewed GWAS methodology and mixed models
+
+### March 17, 2026
+- Studied differential expression analysis with DESeq2
