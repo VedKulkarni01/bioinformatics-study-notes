@@ -42,3 +42,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 18, 2026
 - Reviewed GWAS methodology and mixed models
+
+### March 19, 2026
+- Statistics for bioinformatics concepts
