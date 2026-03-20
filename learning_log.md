@@ -45,3 +45,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 19, 2026
 - Statistics for bioinformatics concepts
+
+### March 20, 2026
+- Studied R tidyverse functions
