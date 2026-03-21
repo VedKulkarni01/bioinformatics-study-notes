@@ -48,3 +48,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 20, 2026
 - Studied R tidyverse functions
+
+### March 21, 2026
+- Reviewed Seurat single-cell workflow
