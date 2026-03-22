@@ -51,3 +51,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 21, 2026
 - Reviewed Seurat single-cell workflow
+
+### March 22, 2026
+- Studied Leiden clustering algorithms
