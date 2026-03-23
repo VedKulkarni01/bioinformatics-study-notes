@@ -54,3 +54,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 22, 2026
 - Studied Leiden clustering algorithms
+
+### March 23, 2026
+- Reviewed RNA-seq alignment methods (STAR vs HISAT2)
