@@ -57,3 +57,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 23, 2026
 - Reviewed RNA-seq alignment methods (STAR vs HISAT2)
+
+### March 24, 2026
+- Notes on scRNA-seq preprocessing with Scanpy
