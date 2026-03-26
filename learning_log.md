@@ -63,3 +63,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 25, 2026
 - Studied multiple testing correction (FDR, Bonferroni)
+
+### March 26, 2026
+- Studied R tidyverse functions
