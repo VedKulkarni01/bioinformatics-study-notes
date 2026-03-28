@@ -69,3 +69,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 27, 2026
 - Statistics for bioinformatics concepts
+
+### March 28, 2026
+- Studied multiple testing correction (FDR, Bonferroni)
