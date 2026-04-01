@@ -81,3 +81,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### March 31, 2026
 - Studied differential expression analysis with DESeq2
+
+### April 01, 2026
+- Studied Leiden clustering algorithms
