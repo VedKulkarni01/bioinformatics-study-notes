@@ -84,3 +84,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 01, 2026
 - Studied Leiden clustering algorithms
+
+### April 02, 2026
+- Transcriptomics lecture notes review
