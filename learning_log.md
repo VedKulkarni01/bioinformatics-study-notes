@@ -93,3 +93,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 04, 2026
 - Reviewed UMAP dimensionality reduction concepts
+
+### April 05, 2026
+- Reviewed Python pandas data manipulation
