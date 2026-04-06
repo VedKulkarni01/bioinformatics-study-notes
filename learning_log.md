@@ -96,3 +96,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 05, 2026
 - Reviewed Python pandas data manipulation
+
+### April 06, 2026
+- Practiced Nextflow pipeline development
