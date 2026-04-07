@@ -99,3 +99,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 06, 2026
 - Practiced Nextflow pipeline development
+
+### April 07, 2026
+- Reviewed Seurat single-cell workflow
