@@ -105,3 +105,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 08, 2026
 - Studied Leiden clustering algorithms
+
+### April 09, 2026
+- Reviewed PCA mathematical foundations
