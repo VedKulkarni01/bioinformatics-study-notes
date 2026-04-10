@@ -108,3 +108,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 09, 2026
 - Reviewed PCA mathematical foundations
+
+### April 10, 2026
+- Practiced Nextflow pipeline development
