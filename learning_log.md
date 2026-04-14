@@ -120,3 +120,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 13, 2026
 - Studied multiple testing correction (FDR, Bonferroni)
+
+### April 14, 2026
+- Reviewed Python pandas data manipulation
