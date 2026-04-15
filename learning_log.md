@@ -123,3 +123,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 14, 2026
 - Reviewed Python pandas data manipulation
+
+### April 15, 2026
+- Reviewed Seurat single-cell workflow
