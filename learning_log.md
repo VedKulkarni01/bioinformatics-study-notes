@@ -132,3 +132,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 17, 2026
 - Reviewed Seurat single-cell workflow
+
+### April 18, 2026
+- Reviewed PCA mathematical foundations
