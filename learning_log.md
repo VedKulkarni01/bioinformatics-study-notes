@@ -135,3 +135,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 18, 2026
 - Reviewed PCA mathematical foundations
+
+### April 19, 2026
+- Statistics for bioinformatics concepts
