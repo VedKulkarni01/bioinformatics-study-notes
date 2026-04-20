@@ -138,3 +138,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 19, 2026
 - Statistics for bioinformatics concepts
+
+### April 20, 2026
+- Transcriptomics lecture notes review
