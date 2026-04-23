@@ -147,3 +147,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 22, 2026
 - Studied Leiden clustering algorithms
+
+### April 23, 2026
+- Reviewed FastQC quality metrics
