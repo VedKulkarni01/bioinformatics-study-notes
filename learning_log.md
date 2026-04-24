@@ -150,3 +150,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 23, 2026
 - Reviewed FastQC quality metrics
+
+### April 24, 2026
+- Reviewed RNA-seq alignment methods (STAR vs HISAT2)
