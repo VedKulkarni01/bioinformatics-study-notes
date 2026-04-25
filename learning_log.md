@@ -153,3 +153,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 24, 2026
 - Reviewed RNA-seq alignment methods (STAR vs HISAT2)
+
+### April 25, 2026
+- Studied multiple testing correction (FDR, Bonferroni)
