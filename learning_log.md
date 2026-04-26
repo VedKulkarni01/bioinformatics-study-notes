@@ -156,3 +156,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 25, 2026
 - Studied multiple testing correction (FDR, Bonferroni)
+
+### April 26, 2026
+- Notes on scRNA-seq preprocessing with Scanpy
