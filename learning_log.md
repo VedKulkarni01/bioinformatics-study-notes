@@ -165,3 +165,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 28, 2026
 - Reviewed UMAP dimensionality reduction concepts
+
+### April 29, 2026
+- Practiced Nextflow pipeline development
