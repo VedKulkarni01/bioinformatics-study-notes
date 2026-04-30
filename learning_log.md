@@ -168,3 +168,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### April 29, 2026
 - Practiced Nextflow pipeline development
+
+### April 30, 2026
+- Studied pathway enrichment analysis (KEGG, GO)
