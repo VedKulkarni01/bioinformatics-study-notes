@@ -174,3 +174,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 01, 2026
 - Studied R tidyverse functions
+
+### May 02, 2026
+- Studied R tidyverse functions
