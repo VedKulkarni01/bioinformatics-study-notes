@@ -180,3 +180,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 03, 2026
 - Studied differential expression analysis with DESeq2
+
+### May 04, 2026
+- Studied R tidyverse functions
