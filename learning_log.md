@@ -195,3 +195,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 08, 2026
 - Reviewed FastQC quality metrics
+
+### May 09, 2026
+- Transcriptomics lecture notes review
