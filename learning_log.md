@@ -201,3 +201,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 10, 2026
 - Reviewed FastQC quality metrics
+
+### May 11, 2026
+- Statistics for bioinformatics concepts
