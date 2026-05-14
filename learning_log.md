@@ -210,3 +210,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 13, 2026
 - Practiced Nextflow pipeline development
+
+### May 14, 2026
+- Studied multiple testing correction (FDR, Bonferroni)
