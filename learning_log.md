@@ -213,3 +213,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 14, 2026
 - Studied multiple testing correction (FDR, Bonferroni)
+
+### May 15, 2026
+- Reviewed FastQC quality metrics
