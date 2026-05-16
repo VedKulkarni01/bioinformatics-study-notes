@@ -216,3 +216,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 15, 2026
 - Reviewed FastQC quality metrics
+
+### May 16, 2026
+- Practiced Nextflow pipeline development
