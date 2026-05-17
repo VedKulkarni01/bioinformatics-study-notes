@@ -219,3 +219,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 16, 2026
 - Practiced Nextflow pipeline development
+
+### May 17, 2026
+- Studied differential expression analysis with DESeq2
