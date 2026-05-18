@@ -222,3 +222,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 17, 2026
 - Studied differential expression analysis with DESeq2
+
+### May 18, 2026
+- Reviewed UMAP dimensionality reduction concepts
