@@ -225,3 +225,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 18, 2026
 - Reviewed UMAP dimensionality reduction concepts
+
+### May 19, 2026
+- Studied pathway enrichment analysis (KEGG, GO)
