@@ -234,3 +234,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 21, 2026
 - Practiced Nextflow pipeline development
+
+### May 22, 2026
+- Notes on scRNA-seq preprocessing with Scanpy
