@@ -237,3 +237,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 22, 2026
 - Notes on scRNA-seq preprocessing with Scanpy
+
+### May 23, 2026
+- Transcriptomics lecture notes review
