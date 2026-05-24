@@ -240,3 +240,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 23, 2026
 - Transcriptomics lecture notes review
+
+### May 24, 2026
+- Studied R tidyverse functions
