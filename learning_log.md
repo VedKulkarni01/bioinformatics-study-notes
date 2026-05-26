@@ -246,3 +246,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 25, 2026
 - Transcriptomics lecture notes review
+
+### May 26, 2026
+- Reviewed RNA-seq alignment methods (STAR vs HISAT2)
