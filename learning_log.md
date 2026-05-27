@@ -249,3 +249,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 26, 2026
 - Reviewed RNA-seq alignment methods (STAR vs HISAT2)
+
+### May 27, 2026
+- Reviewed GWAS methodology and mixed models
