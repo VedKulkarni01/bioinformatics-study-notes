@@ -252,3 +252,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 27, 2026
 - Reviewed GWAS methodology and mixed models
+
+### May 28, 2026
+- Studied pathway enrichment analysis (KEGG, GO)
