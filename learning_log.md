@@ -264,3 +264,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### May 31, 2026
 - Reviewed Seurat single-cell workflow
+
+### June 01, 2026
+- Reviewed GWAS methodology and mixed models
