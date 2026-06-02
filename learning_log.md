@@ -267,3 +267,6 @@ Daily study progress for MS in Bioinformatics @ Northeastern.
 
 ### June 01, 2026
 - Reviewed GWAS methodology and mixed models
+
+### June 02, 2026
+- Reviewed FastQC quality metrics
